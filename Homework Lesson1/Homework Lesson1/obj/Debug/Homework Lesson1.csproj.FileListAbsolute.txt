@@ -1,0 +1,6 @@
+D:\Programing\Start January 2015\JavaScript\Homework\Homework Lesson1\Homework Lesson1\bin\Homework Lesson1.dll.config
+D:\Programing\Start January 2015\JavaScript\Homework\Homework Lesson1\Homework Lesson1\bin\Homework Lesson1.dll
+D:\Programing\Start January 2015\JavaScript\Homework\Homework Lesson1\Homework Lesson1\bin\Homework Lesson1.pdb
+D:\Programing\Start January 2015\JavaScript\Homework\Homework Lesson1\Homework Lesson1\obj\Debug\Homework Lesson1.csprojResolveAssemblyReference.cache
+D:\Programing\Start January 2015\JavaScript\Homework\Homework Lesson1\Homework Lesson1\obj\Debug\Homework Lesson1.dll
+D:\Programing\Start January 2015\JavaScript\Homework\Homework Lesson1\Homework Lesson1\obj\Debug\Homework Lesson1.pdb
